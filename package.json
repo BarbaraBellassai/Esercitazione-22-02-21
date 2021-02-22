@@ -1,0 +1,24 @@
+{
+  "name": "esercitazione-22-02-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraBellassai/Esercitazione-22-02-21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraBellassai/Esercitazione-22-02-21/issues"
+  },
+  "homepage": "https://github.com/BarbaraBellassai/Esercitazione-22-02-21#readme",
+  "dependencies": {
+    "consola": "^2.15.3",
+    "readline": "^1.3.0"
+  }
+}
